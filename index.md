@@ -8,9 +8,23 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+I'm baby fixie *normcore brunch*, typewriter lyft gochujang kale chips kickstarter taiyaki photo booth narwhal vegan tbh tattooed. Williamsburg offal put a bird on it copper mug disrupt small batch palo santo twee ethical keffiyeh messenger bag you probably haven't heard of them aesthetic snackwave. Readymade tilde brooklyn adaptogen roof party chambray farm-to-table 90's. Ugh tbh pop-up iPhone sriracha kickstarter. VHS vape chambray skateboard forage banh mi bespoke organic kickstarter hoodie. Intelligentsia drinking vinegar post-ironic farm-to-table +1 locavore. Knausgaard keytar lumbersexual, meh cred mumblecore scenester dreamcatcher keffiyeh stumptown letterpress ramps pop-up tattooed.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+## The Second biggest header
+
+Taxidermy [selvage post-ironic brooklyn](https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1), skateboard unicorn sriracha man braid. Chillwave 90's echo park, before they sold out skateboard fanny pack etsy literally single-origin coffee narwhal coloring book. <em>Glossier</em> hexagon green juice, jean shorts raw denim kickstarter disrupt schlitz VHS plaid brunch small batch shaman try-hard ethical. Hell of actually meditation sartorial beard taxidermy pok pok, hoodie hella sriracha succulents. Health goth glossier umami, poke mlkshk woke salvia humblebrag organic selvage craft beer four dollar toast. Health goth distillery hexagon shaman fashion axe iPhone gastropub narwhal pop-up.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dVykWl3wDjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Apples
+- Bananas
+- Mangoes
+
+1. Cars
+2. Trains
+3. Automobiles
 
 ### Browse the Collection
 

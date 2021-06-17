@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
+title:            'The DreamLab Wax'
+description:      'A tutorial Wax site'
+url:              ''
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+copyright:        'Public Domain. Pirate life for me.'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -64,7 +64,8 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+# PLEASE NAME THIS COLLECTION
+  qatar: # name of collection. PLEASE CHANGE ME
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
