@@ -21,7 +21,7 @@
 title:            'The DreamLab Wax'
 description:      'A tutorial Wax site'
 url:              ''
-baseurl:          '/wax'
+baseurl:          ''
 copyright:        'Public Domain. Pirate life for me.'
 logo:             '/assets/logo.png'
 
